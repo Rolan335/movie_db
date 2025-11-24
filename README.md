@@ -1,4 +1,6 @@
-# movie_catalog
+<img width="801" height="910" alt="image" src="https://github.com/user-attachments/assets/368ee5a4-ac52-4324-90fd-5b8c2f2af015" />
+
+# movie_db
 
 A new Flutter project.
 
